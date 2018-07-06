@@ -1,10 +1,10 @@
 # Intro to Kubernetes Workshop
 
-Kubernetes Version: 1.0.4
+Kubernetes Version: 1.10.4
 
 The slides from this workshop are hosted [online](http://go-talks.appspot.com/github.com/digitaljedi2/k8s-intro//slides/talk.slide#1)
 
-## Course Outline
+## Talk Overview
 
 ### Google Compute Engine (GCE)
 
