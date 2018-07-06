@@ -1,6 +1,6 @@
 FROM       scratch
 
-MAINTAINER Kelsey Hightower <kelsey.hightower@gmail.com>
+MAINTAINER Jonathan Poole <jpoole@digitaljedi.ca>
 ADD        pgview pgview 
 
 ENTRYPOINT ["/pgview"]

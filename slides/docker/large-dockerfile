@@ -1,6 +1,6 @@
 FROM google/debian:jessie
 
-MAINTAINER Kelsey Hightower <kelsey.hightower@gmail.com>
+MAINTAINER Jonathan Poole <jpoole@digitaljedi.ca>
 RUN apt-get update -y && apt-get install —no-install-recommends -y -q curl build-essential ca-certificates git mercurial 
 RUN curl -O -s https://storage.googleapis.com/golang/go1.4.2.src.tar.gz
 RUN tar -xzf go1.4.2.src.tar.gz -C /usr/local
